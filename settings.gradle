@@ -1,0 +1,2 @@
+rootProject.name='AndroidArchitectPattern'
+include ':app'
